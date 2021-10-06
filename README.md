@@ -16,7 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/kareem96/AppTheMealDB/blob/master/Screen%20Recording%202021-10-06%20at%2016.38.06.mov" type="video/mp4">
-</video>
+![me](https://github.com/kareem96/AppTheMealDB/blob/master/Screen%20Recording%202021-10-06%20at%2016.38.06.mov)
+
 
